@@ -1,0 +1,8 @@
+{
+  "client_id": "https://e1cap1tan.github.io/studio-oauth-client/client.json",
+  "client_name": "VP Studio (local)",
+  "redirect_uris": ["http://127.0.0.1:4747/oauth/callback/elevenlabs"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
